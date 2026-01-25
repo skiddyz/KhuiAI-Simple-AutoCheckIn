@@ -1,6 +1,6 @@
 # KhuiAI Simple AutoCheckIn
 **Vibe Code by FLUKKIEBOYY x CHATGPT**
-ระบบเช็คอินออโต้สำหรับคนขี้เกียจเข้าเว็บแต่อยากให้เงินเข้าและก็ Goon กันให้หนําใจ
+ระบบเช็คอินออโต้สำหรับคนขี้เกียจเข้าเว็บแต่อยากให้เงินเข้าและก็ Goon กันให้หนําใจ (PC Support Only)
 
 ระบบที่มี
 - Auto Check-In (aka เช็คอินรายวัน)
