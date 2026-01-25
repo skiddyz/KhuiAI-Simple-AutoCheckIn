@@ -2,6 +2,7 @@
 **Vibe Code by FLUKKIEBOYY x CHATGPT**
 
 ระบบเช็คอินออโต้สำหรับคนขี้เกียจเข้าเว็บแต่อยากให้เงินเข้าและก็ Goon กันให้หนําใจ (PC Support Only) 
+
 ใช้ได้เฉพาะ Login แบบ Email และ PASSWORD (ไม่รองรับ login with google)
 
 ระบบที่มี
