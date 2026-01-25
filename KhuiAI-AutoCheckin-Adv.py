@@ -39,7 +39,7 @@ def check_email_verification_block(page):
 # ==============================
 def auto_checkin():
     print("=" * 70)
-    print("🤖 KHUI AI AUTO CHECK-IN")
+    print("🤖 KHUI AI AUTO CHECK-IN | Vibe Coded by flukkieboyy x chatgpt")
     print("🕒", datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
     print("=" * 70)
 
