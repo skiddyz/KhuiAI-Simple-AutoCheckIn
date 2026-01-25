@@ -12,7 +12,7 @@
 เช็คไฟล์ config.json เพื่อใส่ email และ pass ด้วยนะครับพี่ชาย🙏
 
 Preview :
-https://vimeo.com/1158061079?share=copy&fl=sv&fe=ci
+https://youtu.be/NEhCP7z7-VU
 
 (สำหรับใครที่หาวิธีให้รันตอนเปิดคอมตอนนี้ให้หากันเองนะครับ)
 
