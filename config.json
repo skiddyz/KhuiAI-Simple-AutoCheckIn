@@ -1,5 +1,7 @@
 {
   "site_url": "https://www.khuiai.com",
-  "email": "Email@ehere.esus.com",
-  "password": "Passw0rd"
+  "email": "youremail@example.com",
+  "password": "yourpassword",
+  "google_email": "yourgmail@gmail.com",
+  "google_password": "yourgmailpassword"
 }
