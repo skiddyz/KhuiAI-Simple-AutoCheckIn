@@ -8,6 +8,11 @@
 🎥 **วิดีโอตัวอย่างการทำงาน**  
 https://youtu.be/NEhCP7z7-VU  
 
+## ❗ Disclaimer
+
+ไม่เกี่ยวข้องกับ KhuiAI อย่างเป็นทางการ
+ใช้ Automation ด้วยความรับผิดชอบ
+
 ---
 
 ## ✨ ความสามารถ
@@ -40,3 +45,17 @@ https://youtu.be/NEhCP7z7-VU
 ```bash
 pip install playwright
 playwright install
+```
+---
+
+## 📅 Daily Auto Run (Windows) | เปิดให้ Login ทุกวันแบบ Auto
+
+1. Win + R → taskschd.msc
+2. Create Basic Task
+3. Trigger → Daily
+4. Action → Start Program
+5. Program → python
+6. Arguments → KhuiAI-AutoCheckin.py
+7. Start in → โฟลเดอร์โปรเจกต์
+
+---
